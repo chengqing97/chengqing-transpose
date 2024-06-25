@@ -2,7 +2,7 @@
 
 ## 1. Acceptance of Terms
 
-By using the [Music Chord Transposer] add-on ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Service.
+By using ChengQing Transposer add-on ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Service.
 
 ## 2. Description of Service
 
@@ -34,7 +34,7 @@ To the fullest extent permitted by law, we are not liable for any indirect, inci
 
 ## 9. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of Malaysia, without regard to its conflict of law principles.
 
 ## 10. Changes to the Terms
 
