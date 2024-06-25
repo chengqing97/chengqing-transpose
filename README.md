@@ -1,2 +1,2 @@
-# chengqing-transpose
+# ChengQing Transpose
 Transpose music chords.
